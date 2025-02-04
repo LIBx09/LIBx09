@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js<br>🎯 Goals: Make web application that make life eazy<br>🎲 Fun fact:  I can spend hours debugging only to realize I forgot a semicolon. 😆</p>
+<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js<br>🎯 Goals: Make web application that make life eazy<br>🎲 Fun fact:  I can spend hours debugging only to realize I forgot a semicolon. 😆</p>
 
 ###
 
