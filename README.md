@@ -14,9 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIBx09&langs_count=10&theme=dracula&layout=compact&hide_border=false" height="150" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=LIBx09&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LIBx09&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 
 
 </div>
