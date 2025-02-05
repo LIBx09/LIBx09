@@ -13,7 +13,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIBx09&langs_count=10&theme=dracula&layout=compact&hide_border=false" height="150" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LIBx09" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LIBx09&theme=default&hide_border=false&border_radius=4.5&mode=daily" alt="GitHub Streak" />
+
 
 
 
