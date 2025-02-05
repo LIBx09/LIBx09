@@ -13,9 +13,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIBx09&langs_count=10&theme=dracula&layout=compact&hide_border=false" height="150" alt="language stats" />
 
-<img src="https://streak-stats.demolab.com?user=LIBx09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-<img src="https://cf.leedcode.com/contest/1100/contest-1100-rating-graph.png" alt="Codeforces Rating" />
-<img src="https://streak-stats.demolab.com?user=LIBx09&theme=dracula&hide_border=false&border_radius=5&mode=daily" height="150" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
+
 
 
 
