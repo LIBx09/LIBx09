@@ -26,11 +26,22 @@
 
 ###
 
-<p align="center">I am a Junior Full-Stack Developer with expertise in JavaScript, React.js, and Tailwind CSS. I specialize in building full-stack applications with React.js and am comfortable developing servers using Express.js and MongoDB. Passionate about creating seamless and visually appealing web applications, I have a keen eye for design and functionality. I embrace continuous learning, improving my skills every day to stay up to date with modern web development.</p>
+
+<p align="center">
+  I’m a Junior Full-Stack Developer with hands-on experience in JavaScript, React.js, and Tailwind CSS. I specialize in building dynamic and responsive full-stack applications using React.js, and I’m proficient in developing robust backends with Express.js and MongoDB. With a strong eye for both design and functionality, I’m passionate about crafting seamless, user-friendly web experiences. I’m committed to continuous learning and dedicated to staying current with the latest trends and best practices in modern web development.
+</p>
+
 
 ###
 
-<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js, Typescript, mongoose, postgreSQL, Prisma<br>Enthusiast about learning codeing<br>🎯 Goals: Make web application that make life eazy<br>🎲 Fun fact:  I can spend hours debugging only to realize I forgot a semicolon. 😆</p>
+<p align="center">
+  ✨ Writing code (and occasionally bugs) since 2024<br>
+  📚 Currently learning Next.js, TypeScript, Mongoose, PostgreSQL, and Prisma<br>
+  💡 Passionate about continuous learning and improving my coding skills<br>
+  🎯 Goal: Build web applications that simplify everyday life<br>
+  🎲 Fun fact: I once spent hours debugging, only to find I missed a semicolon. 😆
+</p>
+
 
 ###
 
