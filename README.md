@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I am a Junior MERN Stack Developer with expertise in JavaScript, React.js, and Tailwind CSS. I specialize in building full-stack applications with React.js and am comfortable developing servers using Express.js and MongoDB. Passionate about creating seamless and visually appealing web applications, I have a keen eye for design and functionality. I embrace continuous learning, improving my skills every day to stay up to date with modern web development.</p>
+<p align="center">I am a Junior Full-Stack Developer with expertise in JavaScript, React.js, and Tailwind CSS. I specialize in building full-stack applications with React.js and am comfortable developing servers using Express.js and MongoDB. Passionate about creating seamless and visually appealing web applications, I have a keen eye for design and functionality. I embrace continuous learning, improving my skills every day to stay up to date with modern web development.</p>
 
 ###
 
