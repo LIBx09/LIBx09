@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js<br>🎯 Goals: Make web application that make life eazy<br>🎲 Fun fact:  I can spend hours debugging only to realize I forgot a semicolon. 😆</p>
+<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js, Typescript, mongoose, postgreSQL, Prisma<br>Enthusiast about learning codeing<br>🎯 Goals: Make web application that make life eazy<br>🎲 Fun fact:  I can spend hours debugging only to realize I forgot a semicolon. 😆</p>
 
 ###
 
